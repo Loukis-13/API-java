@@ -16,7 +16,6 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 public class PersonDTO {
-
     private Long id;
 
     @NotEmpty
